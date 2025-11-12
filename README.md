@@ -1,2 +1,22 @@
-# KinaDyna_RobotArm_Simulation
-A Python-based project for visualizing and analyzing 3D rotations and inverse kinematics of a 2-link robotic arm. The project demonstrates the use of rotation matrices around different axes, combined transformations, and inverse kinematics calculations for reaching target positions. It includes 3D visualizations using Matplotlib.
+# KinaDyna Robot Arm Simulation
+
+This project demonstrates key concepts from **Kinematics and Dynamics**, including **3D rotation matrices** and **inverse kinematics** for a 2-link robotic arm.  
+It uses Python to visualize rotations in 3D space and compute the joint angles needed for a robotic arm to reach a specific target position.
+
+---
+
+## Hello and Welcome
+
+Thank you for visiting my GitHub page!  
+I’m currently in the process of uploading my previous projects and doing my best to make them publicly available in an organized and clear manner.  
+
+At the moment, I’m adding each project with some **light updates and clarifying adjustments**, and I plan to include more **comprehensive notes, explanations, and detailed READMEs** very soon — to help others better understand each project’s idea and usage.  
+
+If you have any questions, suggestions, or would simply like to connect, I’d be delighted to hear from you:  
+- [LinkedIn](https://www.linkedin.com/in/wajdalrabiah)  
+- [X (Twitter)](https://x.com/wajdalrabiah)  
+
+Thank you again for your time and interest.  
+Your feedback and interaction are always appreciated
+
+> _More updates coming soon — stay tuned!_  
